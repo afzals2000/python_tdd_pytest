@@ -7,7 +7,7 @@ Python 3.x should be available on OS. Create virtual environment in $HOME dir ($
 ## Usage Example
 Setup
 ```
-$:~/mypytest$ source ~/venv36/bin/activate;
+$:~/mypytest$ source ~/venv3x/bin/activate;
 $:~/mypytest$ pip install -r requirements.txt
 ```
 
