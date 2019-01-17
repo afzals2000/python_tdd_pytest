@@ -2,7 +2,7 @@
 A Guideline how to write Test Driven Development in Python using Pytest
 
 ## Installation
-Python 3.__x__ should be available on OS. Create virtual environment in $HOME dir ($HOME/venv3__x__) 
+Python 3.__x__ should be available on OS. Create virtual environment in $HOME dir ($HOME/venv3 __x__) 
 
 ## Usage Example
 Setup
